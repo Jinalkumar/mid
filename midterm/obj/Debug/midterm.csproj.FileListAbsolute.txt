@@ -1,0 +1,11 @@
+G:\mid\midterm\midterm\bin\Debug\midterm.exe.config
+G:\mid\midterm\midterm\bin\Debug\midterm.exe
+G:\mid\midterm\midterm\bin\Debug\midterm.pdb
+G:\mid\midterm\midterm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\mid\midterm\midterm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\mid\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+G:\mid\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+G:\mid\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.Cache
+G:\mid\midterm\midterm\obj\Debug\midterm.exe
+G:\mid\midterm\midterm\obj\Debug\midterm.pdb
+G:\mid\midterm\midterm\obj\Debug\midterm.CurrencyConverter.resources
